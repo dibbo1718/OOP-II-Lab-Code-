@@ -1,0 +1,5 @@
+string = input("Enter a string: ")
+lowercase_string = string.lower()
+uppercase_string = string.upper()
+print("Lowercase:", lowercase_string)
+print("Uppercase:", uppercase_string)
